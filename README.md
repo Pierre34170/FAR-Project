@@ -1,3 +1,3 @@
 # FAR-Project
 
-# Une application de messagerie instantanée
+## Une application de messagerie instantanée
